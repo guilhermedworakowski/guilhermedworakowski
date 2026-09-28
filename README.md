@@ -1,4 +1,4 @@
-**Product Designer Pleno** · UX, pesquisa e Design Systems · Brasil
+**Product Designer** · UX, pesquisa e Design Systems · Brasil
 
 Mais de 3 anos em produtos digitais (hosting, SaaS e programas de fidelidade).
 Uno discovery, pesquisa com usuários e Design Systems para transformar dores reais em decisões de produto.
