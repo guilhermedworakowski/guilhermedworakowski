@@ -8,4 +8,4 @@ Uno discovery, pesquisa com usuários e Design Systems para transformar dores re
 - **Design Skill**: skill para o Claude que organiza o processo de design em três agentes: estratégia, pesquisa e design engineering.
 
 ## Contato
-Portfólio (https://guilhermedesignd.com) · LinkedIn (https://linkedin.com/in-guilherme-domingues-dworakowski)
+Portfólio (https://guilhermedesignd.com) · LinkedIn (https://linkedin.com/in/guilherme-domingues-dworakowski)
