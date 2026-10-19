@@ -1,6 +1,6 @@
 **Senior Product Designer** · UX, pesquisa e Design Systems · Brasil
 
-Mais de 3 anos em produtos digitais (hosting, SaaS e programas de fidelidade).
+4 anos em produtos digitais (hosting, SaaS e programas de fidelidade).
 Uno discovery, pesquisa com usuários e Design Systems para transformar dores reais em decisões de produto.
 
 ## Projetos em público
