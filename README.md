@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/guilhermedworakowski/guilhermedworakowski/main/assets/carps-static.svg">
-  <img align="right" width="132" height="132" src="assets/carps.svg" alt="Two pixel art koi carp, one orange and one green, swimming in a circle">
+  <img align="right" width="99" height="99" src="assets/carps.svg" alt="Two pixel art koi carp, one orange and one green, swimming in a circle">
 </picture>
 
-**Senior Product Designer | Design Engineer | UX Designer | DesignOps**&nbsp;·&nbsp;Brazil
+### Senior Product Designer | Design Engineer | UX Designer | DesignOps&nbsp;·&nbsp;Brazil
 
-<br clear="all">
+[Portfolio](https://guilhermedesignd.com) · [LinkedIn](https://linkedin.com/in/guilherme-domingues-dworakowski) · [Resume](https://drive.google.com/file/d/1ANQxkaGct5Y_V3FyhvXonGFHc9Lgl2-L/view?usp=sharing)<br clear="all">
 
 ---
 
@@ -27,9 +27,3 @@ Today I work as a design engineer. With AI and the Figma MCP, I take an idea thr
 **[AL Design System](https://github.com/guilhermedworakowski/al-design-system)** · An open-source, AI Ready design system, from Figma to code. Agents don't have to guess how to use it: the package ships a component catalog, usage rules in Markdown, a markup validator and an MCP server, and the site publishes an `llms.txt`. [Documentation](https://al.guilhermedesignd.com)
 
 **[Design Skill](https://github.com/guilhermedworakowski/design-skill)** · A Claude skill that organizes the design process into three agents: strategy, research and design engineering. An orchestrator reads each request and calls the right one. Available in English and Portuguese.
-
----
-
-### Contact
-
-[Portfolio](https://guilhermedesignd.com) · [LinkedIn](https://linkedin.com/in/guilherme-domingues-dworakowski)
