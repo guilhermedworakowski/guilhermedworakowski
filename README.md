@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/guilhermedworakowski/guilhermedworakowski/main/assets/carps-static.svg">
-  <img align="right" width="99" height="99" src="assets/carps.svg" alt="Two pixel art koi carp, one orange and one green, swimming in a circle">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/guilhermedworakowski/guilhermedworakowski/main/assets/gui-working-static.svg">
+  <img align="right" width="96" height="96" src="assets/gui-working.svg" alt="Pixel art of Gui typing on a laptop">
 </picture>
 
 ### Senior Product Designer | Design Engineer | UX Designer | DesignOps&nbsp;·&nbsp;Brazil
